@@ -13,6 +13,7 @@ gem "bundler","1.1.5"
 gem "rake","0.9.2.2"
 gem "yard","0.8.2.1"
 gem "will_paginate", "2.3.12"
+gem "hoe","1.5.1"
 
 group :production do
 
