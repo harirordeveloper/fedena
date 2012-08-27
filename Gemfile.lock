@@ -25,14 +25,18 @@ GEM
     rake (0.9.2.2)
     test-unit (2.5.1)
     will_paginate (2.3.12)
+    yard (0.8.2.1)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
+  bundler
   i18n (= 0.4.0)
   pg
   rack (= 1.0.1)
   rails (~> 2.3.5)
+  rake
   test-unit
   will_paginate (= 2.3.12)
+  yard

@@ -9,6 +9,9 @@ gem "rails", "~> 2.3.5", :require => nil
 gem "rack", "1.0.1"
 gem "i18n","0.4.0"
 gem "test-unit"
+gem 'bundler'
+gem 'rake'
+gem 'yard'
 gem "will_paginate", "2.3.12"
 
 group :production do
